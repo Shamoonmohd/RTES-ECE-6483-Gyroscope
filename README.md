@@ -1,7 +1,10 @@
 # RTES-ECE-6483-Gyroscope
 Aim:- To build a wearable speedometer which can calculate velocity by measuring angular velocities available from our built-in gyroscope present in STM32f429discovery Board.
+
+
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/45068287/156235665-7e1f8b01-5b17-4f69-90c5-bdf80bd1d831.png">
-The above gyroscope (I3G4250D) present on the Gyroscope was used to measure the X, Y, Z axis on the STM32429board.![image](https://user-images.githubusercontent.com/45068287/156235687-a2a4d68c-55f0-4d9b-8f93-3beb5243e2d5.png)
+The above gyroscope (I3G4250D) present on the Gyroscope was used to measure the X, Y, Z axis on the STM32429board.
+
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/45068287/156235705-6f5013cf-38e5-4e09-b33e-aca067021480.png">
 
